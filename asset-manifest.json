@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/AmitBhatasana/static/css/main.bc1dca3e.css",
-    "main.js": "/AmitBhatasana/static/js/main.1ed5292d.js",
+    "main.js": "/AmitBhatasana/static/js/main.21981aae.js",
     "static/js/787.35d3aee7.chunk.js": "/AmitBhatasana/static/js/787.35d3aee7.chunk.js",
     "index.html": "/AmitBhatasana/index.html",
     "main.bc1dca3e.css.map": "/AmitBhatasana/static/css/main.bc1dca3e.css.map",
-    "main.1ed5292d.js.map": "/AmitBhatasana/static/js/main.1ed5292d.js.map",
+    "main.21981aae.js.map": "/AmitBhatasana/static/js/main.21981aae.js.map",
     "787.35d3aee7.chunk.js.map": "/AmitBhatasana/static/js/787.35d3aee7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc1dca3e.css",
-    "static/js/main.1ed5292d.js"
+    "static/js/main.21981aae.js"
   ]
 }
